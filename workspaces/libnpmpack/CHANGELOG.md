@@ -1,7 +1,6 @@
-# Change Log
+# Changelog
 
-<a name="2.0.0"></a>
-# [2.0.0](https://github.com/npm/libnpmpack/compare/v1.0.0...v2.0.0) (2020-03-27)
+## [2.0.0](https://github.com/npm/libnpmpack/compare/v1.0.0...v2.0.0) (2020-03-27)
 
 ### Breaking Changes
 

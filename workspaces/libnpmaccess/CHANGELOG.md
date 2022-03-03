@@ -1,6 +1,5 @@
-# Change Log
+# Changelog
 
-<a name="4.0.0"></a>
 ## [4.0.0](https://github.com/npm/libnpmaccess/compare/v3.0.2...v4.0.0) (2020-03-02)
 
 ### BREAKING CHANGES
